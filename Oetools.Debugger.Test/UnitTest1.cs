@@ -8,6 +8,7 @@ namespace Oetools.Debugger.Test
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.IsFalse(true);
         }
     }
 }
